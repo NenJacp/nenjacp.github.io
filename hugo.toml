@@ -1,0 +1,37 @@
+baseURL = 'https://nenjacp.github.io/'
+locale = 'es-mx'
+title = 'Abraham Pech'
+theme = 'papermod'
+
+[params]
+  env = 'production'
+  description = 'Estudiante de Ingeniería en Desarrollo y Gestión de Software'
+
+  [params.profileMode]
+    enabled = true
+    title = '👋 Hola, soy Abraham Pech'
+    subtitle = 'Estudiante de Ingeniería en Desarrollo y Gestión de Software'
+    imageUrl = 'LOGO.jpg'
+    imageTitle = 'Abraham Pech'
+    imageWidth = 200
+    imageHeight = 200
+
+    [[params.profileMode.buttons]]
+      name = 'GitHub'
+      url = 'https://github.com/NenJacp'
+
+    [[params.profileMode.buttons]]
+      name = 'Blog'
+      url = '/posts'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/NenJacp'
+
+  [[params.socialIcons]]
+    name = 'instagram'
+    url = 'https://instagram.com/NenJacp'
+
+  [[params.socialIcons]]
+    name = 'linkedin'
+    url = 'https://www.linkedin.com/in/nenjacp'
