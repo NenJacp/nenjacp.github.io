@@ -9,7 +9,7 @@ theme = 'papermod'
 
   [params.profileMode]
     enabled = true
-    title = '👋 Hola, soy Abraham Pech'
+    title = 'Hola, soy Abraham Pech'
     subtitle = 'Estudiante de Ingeniería en Desarrollo y Gestión de Software'
     imageUrl = 'LOGO.jpg'
     imageTitle = 'Abraham Pech'
@@ -27,11 +27,3 @@ theme = 'papermod'
   [[params.socialIcons]]
     name = 'github'
     url = 'https://github.com/NenJacp'
-
-  [[params.socialIcons]]
-    name = 'instagram'
-    url = 'https://instagram.com/NenJacp'
-
-  [[params.socialIcons]]
-    name = 'linkedin'
-    url = 'https://www.linkedin.com/in/nenjacp'

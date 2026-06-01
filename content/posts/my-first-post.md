@@ -12,8 +12,8 @@ Este es mi primer post en mi página personal construida con Hugo.
 
 ### Sobre mí
 
-- 🎓 Estudiante de Ingeniería en Desarrollo y Gestión de Software
-- 💻 Apasionado por el desarrollo web y la tecnología
-- 🌱 Siempre aprendiendo cosas nuevas
+- Estudiante de Ingeniería en Desarrollo y Gestión de Software
+- Apasionado por el desarrollo web y la tecnología
+- Siempre aprendiendo cosas nuevas
 
 ¡Gracias por visitar!
